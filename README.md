@@ -21,6 +21,6 @@ Sou analista de redes, e possuo mais de 4 anos de experiência na área, porém 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align = "left">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=mozartjunior&show_icons=true&bg_color=00000000"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartjunior&layout=compact" />
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartjunior&layout=compact&bg_color=00000000"/>
 </div>
 
