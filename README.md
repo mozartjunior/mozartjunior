@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá, seja bem-vindo(a) ao meu Github 💡 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozartjunior&color=yellow" alt="Profile views" /> </p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou analista de redes, e possuo mais de 4 anos de experiência na área, porém estou em transição de carreira para a área de Desenvolvimento 🎯.
+-  📚 Estudante de engenharia de software
+-  ⚡ Objetivo me tornar QA Analyst ou Dev fullstack
+-  ⚡ Fun fact: guitarrista de quarto e muito fã de música !
+-  ⚡ Atualmente estudando sobre os pré-requisitos para se tornar um QA Jr, ou conseguir estágio na área
+<br><br>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartjunior&layout=compact&theme=vision-friendly-dark" alt="mozart's most languages"/>
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=mozartjunior&show_icons=true&bg_color=00000000"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozartjunior&layout=compact" />
+</div>
 
