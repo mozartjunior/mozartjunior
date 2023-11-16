@@ -1,11 +1,10 @@
 ### Olá, seja bem-vindo(a) ao meu Github 💡 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozartjunior&color=yellow" alt="Profile views" /> </p>
 
-Sou analista de redes, e possuo mais de 4 anos de experiência na área, porém estou em transição de carreira para a área de Desenvolvimento 🎯.
+Analista de redes, e possui mais de 4 anos de experiência na área, em transição de carreira para a área de Desenvolvimento 🎯.
 -  📚 Estudante de engenharia de software
--  ⚡ Objetivo me tornar QA Analyst ou Dev fullstack
+-  ⚡ Objetivo: Tornar-se QA Analyst ou Backend/DevOps
 -  ⚡ Fun fact: guitarrista de quarto e muito fã de música !
--  ⚡ Atualmente estudando sobre os pré-requisitos para se tornar um QA Jr, ou conseguir estágio na área
 <br><br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
