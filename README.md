@@ -3,13 +3,7 @@
 
 Analista de redes, e possui mais de 4 anos de experiência na área, em transição de carreira para a área de Desenvolvimento 🎯.
 -  📚 Estudante de engenharia de software
--  ⚡ Objetivo: Tornar-se QA Analyst ou Backend/DevOps
--  ⚡ Fun fact: guitarrista de quarto e muito fã de música !
 
-Network analyst, and has more than 4 years of experience in the area, transitioning career to the Development area 🎯.
-- 📚 Software engineering student
-- ⚡ Objective: Become a QA Analyst or Backend/DevOps
-- ⚡ Fun fact: bedroom guitarist.
 <br><br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
