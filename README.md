@@ -18,7 +18,7 @@ Sempre aprendendo e construindo projetos práticos 🚀
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Android OS](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=android)&nbsp;
+![Android OS](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 
 <br><br>
