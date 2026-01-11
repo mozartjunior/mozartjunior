@@ -20,7 +20,5 @@ Sempre aprendendo e construindo projetos práticos 🚀
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Android OS](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Mobile](https://img.shields.io/badge/-Mobile-05122A?style=flat&logo=mobile)&nbsp;
-
-
 <br><br>
 
