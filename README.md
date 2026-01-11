@@ -19,6 +19,7 @@ Sempre aprendendo e construindo projetos práticos 🚀
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Android OS](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Mobile](https://img.shields.io/badge/-Mobile-05122A?style=flat&logo=mobile)&nbsp;
 
 
 <br><br>
