@@ -1,9 +1,12 @@
-### Olá, seja bem-vindo(a) ao meu Github 💡 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozartjunior&color=yellow" alt="Profile views" /> </p>
+👋 Mozart Gomes da Silva Junior
+🎓 Estudante de Engenharia de Software
+🧪 QA / Testes Automatizados | 🐍 Python
+💻 Backend com Node.js & APIs
+📱 Android, ADB e Kotlin (em aprendizado)
+⚙️ CI/CD, Git & boas práticas de desenvolvimento
+☁️ Interesse em DevOps, Cloud e Segurança da Informação
 
-Analista de redes, e possui mais de 4 anos de experiência na área, em transição de carreira para a área de Desenvolvimento 🎯.
--  📚 Estudante de engenharia de software
-
+Sempre aprendendo e construindo projetos práticos 🚀
 <br><br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
