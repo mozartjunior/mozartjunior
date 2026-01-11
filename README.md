@@ -1,9 +1,9 @@
-👋 Mozart Gomes da Silva Junior
-🎓 Estudante de Engenharia de Software
-🧪 QA / Testes Automatizados | 🐍 Python
-💻 Backend com Node.js & APIs
-📱 Android, ADB e Kotlin (em aprendizado)
-⚙️ CI/CD, Git & boas práticas de desenvolvimento
+👋 Mozart Gomes da Silva Junior<br>
+🎓 Estudante de Engenharia de Software<br>
+🧪 QA / Testes Automatizados | 🐍 Python<br>
+💻 Backend com Node.js & APIs<br>
+📱 Android, ADB e Kotlin (em aprendizado)<br>
+⚙️ CI/CD, Git & boas práticas de desenvolvimento<br>
 ☁️ Interesse em DevOps, Cloud e Segurança da Informação
 
 Sempre aprendendo e construindo projetos práticos 🚀
